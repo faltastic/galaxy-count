@@ -8,7 +8,9 @@ It is a [Processing](https://processing.org/) application and its user interface
 ![alt](screenshots/app.png)
 
 
-A custom version of the app was used by scientists at the State University of New York in Fredonia to analyze micro plastics in global bottled water. The story was reported in [Plus Plastic](https://orbmedia.org/stories/plus-plastic) by [Orb Media](https://orbmedia.org/) and then covered by the [the Guardian](https://www.theguardian.com/environment/2018/mar/15/microplastics-found-in-more-than-90-of-bottled-water-study-says) and [Gizmodo](https://gizmodo.com/report-finds-microplastic-in-93-of-bottled-water-teste-1823798652).
+A custom version of the app was used by scientists at the State University of New York in Fredonia to analyze micro plastics in global bottled water. 
+
+The story was reported in [Plus Plastic](https://orbmedia.org/stories/plus-plastic) by [Orb Media](https://orbmedia.org/) and was featured on [BBC News](https://www.bbc.com/news/science-environment-43388870) and [CBC](https://www.cbc.ca/news/technology/bottled-water-microplastics-1.4575045) and was covered by [the Guardian](https://www.theguardian.com/environment/2018/mar/15/microplastics-found-in-more-than-90-of-bottled-water-study-says), and [Gizmodo](https://gizmodo.com/report-finds-microplastic-in-93-of-bottled-water-teste-1823798652).
 
 
 ## Setup
