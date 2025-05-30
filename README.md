@@ -59,7 +59,7 @@ The **Filter + Count + Statistics** function displays only a sample of the calcu
 
 * the number of objects
 * the average size of objects (in pixels)
-* and the density which is 1000 times the ratio of the area of objects to the total image area i.e. <img src="https://latex.codecogs.com/gif.latex?Density&space;=&space;1000\times&space;\left&space;(\thinspace&space;Area&space;\thinspace&space;of&space;\thinspace&space;Objects}&space;\thinspace&space;/&space;{\thinspace&space;Area&space;\thinspace&space;of&space;\thinspace&space;Image\thinspace}&space;\right&space;)" title="Density" />
+* and the density which is 1000 times the ratio of the area of objects to the total image area i.e. <img src="https://latex.codecogs.com/gif.latex?Density=1000\times%20%20\left%20(Area%20\thinspace%20of%20\thinspace%20Objects%20/%20Area%20\thinspace%20of%20\thinspace%20Image%20\right)" title="Density" />
 
 
 The saved statistics data include more measures (all in pixels)
